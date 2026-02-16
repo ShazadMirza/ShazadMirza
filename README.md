@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShazadMirza
 - 👀 I’m interested in gaming, travelling, cloud computing, containers, observability, optimization, transformation, automation
 - 🌱 I’m currently learning how to draw, code, lose weight and automate
-- 💞️ I’m looking to collaborate on how using IBM cloud has generated positive business outcomes
+- 💞️ I’m looking to collaborate on how using IBM WatsonX.ai and FinOps has generated positive business outcomes
 - 📫 How to reach me @shazad_mirza on twitter or shazad.mirza@ibm.com 
 
 <!---
